@@ -1,5 +1,3 @@
-Git is a distributed version control system
-Git is free software distributed under the GPL
-Git has a mutable index called stage.
-Git tracks changes.
+address.html and cart.html are the main pages.
+
 
